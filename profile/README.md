@@ -1,6 +1,6 @@
-# SkinCheck.AI
+# GymGuide
 
-SkinCheck.AI is an All-in-One Platform For Your Skincare Needs. This project was inspired by the fact that many teenagers in Indonesia have acne problems and limited access to information on how to solve their skin problems. We took the initiative to create a mobile app that can help any individual find out the condition of their facial skin and how to treat it. We plan to create an innovative way to find out the condition of faces, find the appropriate skin care products and the best way to handle them. We are using machine learning, cloud computing and mobile development to realise these products.
+GymGuide is an All-in-One Platform For Your Skincare Needs. This project was inspired by the fact that many teenagers in Indonesia have acne problems and limited access to information on how to solve their skin problems. We took the initiative to create a mobile app that can help any individual find out the condition of their facial skin and how to treat it. We plan to create an innovative way to find out the condition of faces, find the appropriate skin care products and the best way to handle them. We are using machine learning, cloud computing and mobile development to realise these products.
 
 # Current Features
 
