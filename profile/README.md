@@ -15,7 +15,7 @@ Hi everyone! We are from CH2-PS551. We consist of 6 people and these are my team
 | C184BSY4022  | Iqbal Defri Prasetya | Cloud Computing | Universitas Andalas | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alim-ma-arij-03125b245/) |
 | A669BSY2729  | Farid Andika | Mobile Developer |  STMIK Profesional Makassar | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faridandika/) |
 
-# Theme ⚕️
+# Theme⚕️
 Human Healthcare and Living Wellbeings
 
 # How To Use The App 📱
