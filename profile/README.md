@@ -14,7 +14,7 @@ Hi everyone! We are from CH2-PS551. We consist of 6 people and these are my team
 | M208BSY0204 | Arthur Hozanna | Machine Learning | Universitas Hasanuddin | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-hozanna-1ba67a202/) |
 | M208BSY1091  | Muhammad Alim Ma'arij | Machine Learning | Universitas Hasanuddin | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alim-ma-arij-03125b245/) |
 | C272BSY3525  | Aswar | Cloud Computing | Universitas Muslim Indonesia | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswar-ar/) |
-| C184BSY4022  | Iqbal Defri Prasetya | Cloud Computing | Universitas Andalas | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alim-ma-arij-03125b245/) |
+| C184BSY4022  | Iqbal Defri Prasetya | Cloud Computing | Universitas Andalas | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-defri-prasetya-24a746128/) |
 | A669BSY2729  | Farid Andika | Mobile Developer |  STMIK Profesional Makassar | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faridandika/) |
 
 # Theme⚕️
