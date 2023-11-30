@@ -35,5 +35,20 @@ Get the app from our [releases page.](https://pages.github.com/)
 
 ![Untitled design](https://github.com/GymGuide/.github/assets/90093341/3303b7fa-b8ff-47a4-b132-74182f67081a)
 
+**How to detect Gym Equipment**
+
+1. Click the Camera Icon.
+2. Take your Gym Equiment photo or select from gallery.
+3. Click Unggah button.
+4. And wait for a video on how to use gym equipment will appear in the form of a pop-up.
+
+![Untitled design (1)](https://github.com/GymGuide/.github/assets/90093341/e6073dab-d26e-4884-959f-20ab71d1ea04)
+
+**Consult with Coach**
+
+Gym Guide app also offers coaches for hire, allowing users to consultations.
+
+![Untitled design (1)](https://github.com/GymGuide/.github/assets/90093341/3e47023c-375f-4522-9534-48528205d62e)
+
 # Technical Details
 -
