@@ -31,7 +31,7 @@ Get the app from our [releases page.](https://pages.github.com/)
 
 **Login and Register**
 
-GymGuide simplifies your login and registration experience! With convenience and security as our top priorities, we offer efficient login and registration options through Facebook, Google, and xxx. Enjoy instant access to our services without the hassle of remembering additional passwords. With GymGuide, using your favorite account from Facebook, Google, or xxx is just a click away.
+<p align="justify"> GymGuide simplifies your login and registration experience! With convenience and security as our top priorities, we offer efficient login and registration options through Facebook, Google, and xxx. Enjoy instant access to our services without the hassle of remembering additional passwords. With GymGuide, using your favorite account from Facebook, Google, or xxx is just a click away. </p>
 
 ![Untitled design](https://github.com/GymGuide/.github/assets/90093341/3303b7fa-b8ff-47a4-b132-74182f67081a)
 
