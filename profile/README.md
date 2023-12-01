@@ -50,6 +50,23 @@ Gym Guide app also offers coaches for hire, allowing users to consultations.
 
 <img src="https://github.com/GymGuide/.github/assets/90093341/3e47023c-375f-4522-9534-48528205d62e" width=33.2% height=33.2%>
 
+<p> </p>
+
+**Articles that are always updated**
+
+Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide
+
+<img src="https://github.com/GymGuide/.github/assets/90093341/ee95237b-4f85-490e-875c-9fa3203e701b" width=33.2% height=33.2%>
+
+<p> </p>
+
+**Exercise List**
+
+GymGuide provides daily workouts that can be accessed and followed by users of all levels of physical condition. Each exercise is accompanied by clear instructions and a video guide to ensure users perform the movements correctly.
+
+<img src="https://github.com/GymGuide/.github/assets/90093341/ee95237b-4f85-490e-875c-9fa3203e701b" width=33.2% height=33.2%>
+
+
 
 # Technical Details
 -
