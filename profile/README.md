@@ -66,5 +66,4 @@ Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on Gym
 
 <img src="https://github.com/GymGuide/.github/assets/90093341/45174aca-28e7-407f-a529-82575fd16c96" width=33.2% height=33.2%>
 
-# Technical Details
--
+
