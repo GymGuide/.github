@@ -46,7 +46,7 @@ Get the app from our [releases page.](https://pages.github.com/)
 
 **Consult with Coach**
 
-Gym Guide app also offers coaches for hire, allowing users to consultations. You can access on Consult menu.
+Gym Guide app also offers coaches for hire, allowing users to consultations. You can access this feature through the Consult menu.
 
 <img src="https://github.com/GymGuide/.github/assets/90093341/3e47023c-375f-4522-9534-48528205d62e" width=33.2% height=33.2%>
 
@@ -54,7 +54,7 @@ Gym Guide app also offers coaches for hire, allowing users to consultations. You
 
 **Articles that are always updated**
 
-Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide. You can access on home menu.
+Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide. You can access these resources through the home menu.
 
 <img src="https://github.com/GymGuide/.github/assets/90093341/ee95237b-4f85-490e-875c-9fa3203e701b" width=33.2% height=33.2%>
 
@@ -62,7 +62,7 @@ Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on Gym
 
 **Exercise List**
 
-<p align="justify"> GymGuide provides daily workouts that can be accessed and followed by users of all levels of physical condition. Each exercise is accompanied by clear instructions and a video guide to ensure users perform the movements correctly. You can access on Discover menu. </p>
+<p align="justify"> GymGuide provides daily workouts that can be accessed and followed by users of all levels of physical condition. Each exercise is accompanied by clear instructions and a video guide to ensure users perform the movements correctly. You can access these workouts through the Discover menu. </p>
 
 <img src="https://github.com/GymGuide/.github/assets/90093341/45174aca-28e7-407f-a529-82575fd16c96" width=33.2% height=33.2%>
 
