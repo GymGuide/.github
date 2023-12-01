@@ -62,7 +62,7 @@ Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on Gym
 
 **Exercise List**
 
-GymGuide provides daily workouts that can be accessed and followed by users of all levels of physical condition. Each exercise is accompanied by clear instructions and a video guide to ensure users perform the movements correctly.
+<p align="justify"> GymGuide provides daily workouts that can be accessed and followed by users of all levels of physical condition. Each exercise is accompanied by clear instructions and a video guide to ensure users perform the movements correctly. </p>
 
 <img src="https://github.com/GymGuide/.github/assets/90093341/45174aca-28e7-407f-a529-82575fd16c96" width=33.2% height=33.2%>
 
