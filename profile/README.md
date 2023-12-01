@@ -48,7 +48,8 @@ Get the app from our [releases page.](https://pages.github.com/)
 
 Gym Guide app also offers coaches for hire, allowing users to consultations.
 
-![Untitled design (1)](https://github.com/GymGuide/.github/assets/90093341/3e47023c-375f-4522-9534-48528205d62e)
+<img src="https://github.com/GymGuide/.github/assets/90093341/3e47023c-375f-4522-9534-48528205d62e" width=33.2% height=33.2%>
+
 
 # Technical Details
 -
