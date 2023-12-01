@@ -35,7 +35,7 @@ Get the app from our [releases page.](https://pages.github.com/)
 
 ![Untitled design](https://github.com/GymGuide/.github/assets/90093341/3303b7fa-b8ff-47a4-b132-74182f67081a)
 
-**How to detect Gym Equipment**
+**How To Detect Gym Equipment**
 
 1. Click the Camera Icon.
 2. Take your Gym Equiment photo or select from gallery.
@@ -44,7 +44,7 @@ Get the app from our [releases page.](https://pages.github.com/)
 
 ![Untitled design (1)](https://github.com/GymGuide/.github/assets/90093341/e6073dab-d26e-4884-959f-20ab71d1ea04)
 
-**Consult with Coach**
+**Consult With Coach**
 
 Gym Guide app also offers coaches for hire, allowing users to consultations. You can access this feature through the Consult menu.
 
@@ -52,7 +52,7 @@ Gym Guide app also offers coaches for hire, allowing users to consultations. You
 
 <p> </p>
 
-**Articles that are always updated**
+**Articles That Are Always Updated**
 
 Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide. You can access these resources through the home menu.
 
