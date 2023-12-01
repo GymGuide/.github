@@ -54,7 +54,7 @@ Gym Guide app also offers coaches for hire, allowing users to consultations.
 
 **Articles that are always updated**
 
-Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide
+Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide.
 
 <img src="https://github.com/GymGuide/.github/assets/90093341/ee95237b-4f85-490e-875c-9fa3203e701b" width=33.2% height=33.2%>
 
