@@ -2,7 +2,7 @@
 
 <p align="justify">     The wide variety of gym equipment is one of the main reasons why many people choose not to train at the gym. Alongside the expensive, sloppy, and incompetent personal trainers, these factors have left newcomers confused and unsure about how to efficiently train, receive guidance on operating the equipment and find a personal trainer. To address this issue, we present Gym Guide: an innovative app designed to assist in the fitness journey, making it easier and more effective.  </p>
 
-<p align="justify"> The application scans photos of gym equipment, processes them using CNN, and generates tutorials on how to use that equipment. Our application focuses on introverted personalities, newcomers, individuals who are unsure how to properly operate gym equipment. Helping them to operate gym equipment correctly, eliminating the necessity to seek help from others. We also plan to add additional feature so user can also consult or hire a certified Personal Trainer to assist them. </p>
+<p align="justify"> The application scans photos of gym equipment, processes them using Machine Learning, and generates tutorials on how to use that equipment. Our application focuses on introverted personalities, newcomers, individuals who are unsure how to properly operate gym equipment. Helping them to operate gym equipment correctly, eliminating the necessity to seek help from others. We also plan to add additional feature so user can also consult or hire a certified Personal Trainer to assist them. </p>
 
 # Introduction 👋
 
