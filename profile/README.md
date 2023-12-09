@@ -33,7 +33,13 @@ Get the app from our [releases page.](https://gymguide.github.io/gymguideapp.git
 
 <p align="justify"> GymGuide simplifies your login and registration experience! With convenience and security as our top priorities, we offer efficient login and registration options through Facebook, Google, and xxx. Enjoy instant access to our services without the hassle of remembering additional passwords. With GymGuide, using your favorite account from Facebook, Google, or xxx is just a click away. </p>
 
-![Untitled design](https://github.com/GymGuide/.github/assets/90093341/3303b7fa-b8ff-47a4-b132-74182f67081a)
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/b7fbb590-9dba-4973-967c-1ffee425b57e" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/8b39667b-9d8f-4552-b94d-b9910250d33f" width="25%%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/46ebc4dc-7580-4a9a-907d-6adf0102c6df" width="25%" height="25%">
+</p>
 
 **How To Detect Gym Equipment**
 
@@ -42,13 +48,25 @@ Get the app from our [releases page.](https://gymguide.github.io/gymguideapp.git
 3. Click Unggah button.
 4. And wait for a video on how to use gym equipment will appear in the form of a pop-up.
 
-![Untitled design (1)](https://github.com/GymGuide/.github/assets/90093341/e6073dab-d26e-4884-959f-20ab71d1ea04)
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/8f387628-5ed1-4f11-a00d-010521e51bca" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/ea1a72b4-5d05-4836-9d58-01a67a6c9fa5" width="25%%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/4e5d7dc3-352a-4faf-90c4-611c759643c6" width="25%" height="25%">
+</p>
 
 **Consult With Coach**
 
 Gym Guide app also offers coaches for hire, allowing users to consultations. You can access this feature through the Consult menu.
 
-<img src="https://github.com/GymGuide/.github/assets/90093341/3e47023c-375f-4522-9534-48528205d62e" width=33.2% height=33.2%>
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/da7b3f27-47b4-45fb-a020-c66e3b75849a" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/040cb7cf-7715-4488-ba70-55a5c0f26187" width="25%%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/5ac5ecff-01ac-422c-a403-7ec108085df4" width="25%" height="25%">
+</p>
 
 <p> </p>
 
@@ -56,7 +74,10 @@ Gym Guide app also offers coaches for hire, allowing users to consultations. You
 
 Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide. You can access these resources through the home menu.
 
-<img src="https://github.com/GymGuide/.github/assets/90093341/ee95237b-4f85-490e-875c-9fa3203e701b" width=33.2% height=33.2%>
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/16d0bbcf-5c69-40f3-baec-222a807d4474" width="25%" height="25%">
+</p>
+
 
 <p> </p>
 
@@ -64,6 +85,13 @@ Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on Gym
 
 <p align="justify"> GymGuide provides daily workouts that can be accessed and followed by users of all levels of physical condition. Each exercise is accompanied by clear instructions and a video guide to ensure users perform the movements correctly. You can access these workouts through the Discover menu. </p>
 
-<img src="https://github.com/GymGuide/.github/assets/90093341/45174aca-28e7-407f-a529-82575fd16c96" width=33.2% height=33.2%>
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/49080442-64c7-4efa-9642-62a3f1c40a89" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/6a551318-d580-42f7-a1af-fcc564494ac1" width="25%%" height="25%">
+</p>
+
+
+
 
 
