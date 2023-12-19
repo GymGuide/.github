@@ -36,7 +36,7 @@ Human Healthcare and Living Wellbeings
 
 **Scan Gym Equipment**
 
-Allows users to scan gym equipment and get interactive video tutorials to understand their correct and effective use.
+Allows Users to Scan Gym Equipment and Get Interactive Video Tutorials to Understand Their Correct and Effective Use.
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/aa28ccbf-a505-41a6-80c2-8380a89342bb" width="25%" height="25%">
@@ -46,7 +46,7 @@ Allows users to scan gym equipment and get interactive video tutorials to unders
 
 **Consultation with Trainers**
 
-Provides direct access to users to consult expert coaches through the platform for personal guidance and motivation.
+Provides Direct Access to Users to Consult Expert Coaches Through the Platform for Personal Guidance and Motivation.
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/891881cc-81ec-4041-83a2-b00ec57ed857" width="25%" height="25%">
@@ -58,9 +58,21 @@ Provides direct access to users to consult expert coaches through the platform f
 
 <p> </p>
 
+**Trainer Booking**
+
+Allows Users to Book Private Trainers and Schedule Face-to-Face Meetings Offline.
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/83fc2773-1431-4581-b4fd-30ec21bb0ac3" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/73f70ee5-19e1-419d-ba80-c7e97f868322" width="25%%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/e6172bf9-f112-44c3-9f1e-4c5e55920957" width="25%" height="25%">
+</p>
+
 **Articles and Tips & Tricks**
 
-Provides informative articles about the benefits of exercise, exercise routines, and health information to provide motivation and knowledge to users.
+Provides Informative Articles About the Benefits of Exercise, Exercise Routines, and Health Information to Provide Motivation and Knowledge to Users.
 
 
 <p align="center">
@@ -72,7 +84,7 @@ Provides informative articles about the benefits of exercise, exercise routines,
 
 **Daily Exercise List**
 
-<p align="justify"> Provides a list of exercises that can be done at home or at the gym </p>
+<p align="justify"> Provides a List of Exercises That Can Be Done at Home or at the Gym. </p>
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/762311c2-feaa-4271-9685-0eaeec088922" width="25%" height="25%">
@@ -82,7 +94,7 @@ Provides informative articles about the benefits of exercise, exercise routines,
 
 **Gym Place Booking**
 
-<p align="justify"> Facilitates users to book a place at their favorite gym </p>
+<p align="justify"> Facilitates Users to Book a Place at Their Favorite Gym. </p>
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/2ad8f4e9-633c-43a5-a404-32439333b637" width="25%" height="25%">
@@ -92,7 +104,7 @@ Provides informative articles about the benefits of exercise, exercise routines,
 
 **Monitoring Daily Caloric, Hydration, and Workout**
 
-<p align="justify"> With accurate monitoring, you can ensure that your every step is directed towards your goals. where you can record every food you eat, the amount of water you drink and your workout activities, all of which will be recorded in detail on the dashboard. </p>
+<p align="justify"> With Accurate Monitoring, You Can Ensure That Your Every Step Is Directed Towards Your Goals. Where You Can Record Every Food You Eat, the Amount of Water You Drink, and Your Workout Activities, All of Which Will Be Recorded in Detail on the Dashboard. </p>
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/9af04ffd-83ec-483f-98c2-80f3230be750" width="25%" height="25%">
@@ -104,7 +116,7 @@ Provides informative articles about the benefits of exercise, exercise routines,
 
 **Food Scanning to Determine Nutrition Food**
 
-<p align="justify"> Taking advantage of this feature, users can easily find out the calories and nutrients you consume </p>
+<p align="justify"> Taking Advantage of This Feature, Users Can Easily Find Out the Calories and Nutrients They Consume.</p>
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/01348b30-be22-4807-b995-7272339496e6" width="25%" height="25%">
@@ -114,7 +126,7 @@ Provides informative articles about the benefits of exercise, exercise routines,
 
 **Gamification**
 
-<p align="justify"> features make sports a fun game. Get points/badges every time you complete a mission, as well as special prizes after achieving certain targets. It's not just about exercise, it's also about celebrating every milestone you make on your fitness journey!" </p>
+<p align="justify"> Features Make Sports a Fun Game. Get Points/Badges Every Time You Complete a Mission, as Well as Special Prizes After Achieving Certain Targets. It's Not Just About Exercise, It's Also About Celebrating Every Milestone You Make on Your Fitness Journey! </p>
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/e32ecf68-b4d8-4c01-a583-8fd6be374c93" width="25%" height="25%">
