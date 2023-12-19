@@ -18,7 +18,7 @@ Hi everyone! We are from CH2-PS551. We consist of 6 people and these are my team
 | A669BSY2729  | Farid Andika | Mobile Developer |  STMIK Profesional Makassar | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faridandika/) |
 
 # Theme⚕️
-Human Healthcare and Living Wellbeings
+Human Healthcare and Living Wellbeings.
 
 # Website🌐
 Get the app from our [releases page.](https://gymguide.github.io/Website/)
