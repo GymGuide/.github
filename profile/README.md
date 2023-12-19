@@ -27,7 +27,7 @@ Android phone and internet connection.
 
 **Installation**
 
-Get the app from our [releases page.](https://gymguide.github.io/gymguideapp.github.io/)
+Get the app from our [releases page.](https://gymguide.github.io/Website/)
 
 **Login and Register**
 
