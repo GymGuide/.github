@@ -21,7 +21,7 @@ Hi everyone! We are from CH2-PS551. We consist of 6 people and these are my team
 Human Healthcare and Living Wellbeings.
 
 # Website🌐
-Get the app from our [releases page.](https://gymguide.github.io/Website/)
+Get the app from our [releases page.](https://gymguide.github.io/website/)
 
 # Features📱
 
