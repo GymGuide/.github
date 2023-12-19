@@ -20,7 +20,7 @@ Hi everyone! We are from CH2-PS551. We consist of 6 people and these are my team
 # Theme⚕️
 Human Healthcare and Living Wellbeings
 
-# Website⚕️
+# Website🌐
 Get the app from our [releases page.](https://gymguide.github.io/Website/)
 
 # Features 📱
