@@ -1,1 +1,1 @@
-Profil GymGuide
+Profile GymGuide
