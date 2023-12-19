@@ -92,6 +92,15 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
   <img src="https://github.com/GymGuide/.github/assets/90093341/83e309a4-5b04-49aa-ac83-d83a3c5cdd22" width="25%%" height="25%">
 </p>
 
+**Muscle Map**
+
+<p align="justify"> Find Specific Muscle You Want To Train. </p>
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/765f302d-c833-4def-8532-0a8718b71115" width="25%" height="25%">
+</p>
+
+
 **Gym Place Booking**
 
 <p align="justify"> Facilitates Users to Book a Place at Their Favorite Gym. </p>
