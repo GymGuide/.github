@@ -102,9 +102,9 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
   <img src="https://github.com/GymGuide/.github/assets/90093341/b2e6a29e-bf8c-4ee2-b031-61b2f5f11caa" width="25%%" height="25%">
 </p>
 
-**Monitoring Daily Caloric, Hydration, and Workout**
+**Monitoring Daily Caloric, Hydration, Workout, And Sleep**
 
-<p align="justify"> With Accurate Monitoring, You Can Ensure That Your Every Step Is Directed Towards Your Goals. Where You Can Record Every Food You Eat, the Amount of Water You Drink, and Your Workout Activities, All of Which Will Be Recorded in Detail on the Dashboard. </p>
+<p align="justify"> With Accurate Monitoring, You Can Ensure That Your Every Step Is Directed Towards Your Goals. Where You Can Record Every Food You Eat, the Amount of Water You Drink, Your Workout Activities, And Amount of Sleep Time. All of Which Will Be Recorded in Detail on the Dashboard. </p>
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/9af04ffd-83ec-483f-98c2-80f3230be750" width="25%" height="25%">
