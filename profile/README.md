@@ -97,7 +97,7 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> Find Specific Muscle You Want To Train. </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/765f302d-c833-4def-8532-0a8718b71115" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/33e9d4de-fba8-4de2-aa73-913203b736d3" width="25%" height="25%">
 </p>
 
 
