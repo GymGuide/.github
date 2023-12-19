@@ -20,6 +20,9 @@ Hi everyone! We are from CH2-PS551. We consist of 6 people and these are my team
 # Theme⚕️
 Human Healthcare and Living Wellbeings
 
+# Website⚕️
+Get the app from our [releases page.](https://gymguide.github.io/Website/)
+
 # Features 📱
 
 **Login and Register**
@@ -118,7 +121,7 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/9af04ffd-83ec-483f-98c2-80f3230be750" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/c30e9b34-4eea-4319-aa27-729072164592" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/7db6ab2d-dd8d-40ae-aabe-1d335cb7b889" width="25%%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
   <img src="https://github.com/GymGuide/.github/assets/90093341/f6407310-1a34-4958-aa69-4049142c069b" width="25%" height="25%">
 </p>
