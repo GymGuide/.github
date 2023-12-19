@@ -23,7 +23,7 @@ Human Healthcare and Living Wellbeings
 # Website🌐
 Get the app from our [releases page.](https://gymguide.github.io/Website/)
 
-# Features 📱
+# Features📱
 
 **Login and Register**
 
