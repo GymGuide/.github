@@ -20,14 +20,7 @@ Hi everyone! We are from CH2-PS551. We consist of 6 people and these are my team
 # Theme⚕️
 Human Healthcare and Living Wellbeings
 
-# How To Use The App 📱
-**Prerequisites**
-
-Android phone and internet connection.
-
-**Installation**
-
-Get the app from our [releases page.](https://gymguide.github.io/Website/)
+# Features 📱
 
 **Login and Register**
 
@@ -41,12 +34,9 @@ Get the app from our [releases page.](https://gymguide.github.io/Website/)
   <img src="https://github.com/GymGuide/.github/assets/90093341/46ebc4dc-7580-4a9a-907d-6adf0102c6df" width="25%" height="25%">
 </p>
 
-**How To Detect Gym Equipment**
+**Scan Gym Equipment**
 
-1. Click the Camera Icon.
-2. Take your Gym Equiment photo or select from gallery.
-3. Click Unggah button.
-4. And wait for a video on how to use gym equipment will appear in the form of a pop-up.
+Allows users to scan gym equipment and get interactive video tutorials to understand their correct and effective use.
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/8f387628-5ed1-4f11-a00d-010521e51bca" width="25%" height="25%">
@@ -56,9 +46,9 @@ Get the app from our [releases page.](https://gymguide.github.io/Website/)
   <img src="https://github.com/GymGuide/.github/assets/90093341/4e5d7dc3-352a-4faf-90c4-611c759643c6" width="25%" height="25%">
 </p>
 
-**Consult With Coach**
+**Consultation with Trainers**
 
-Gym Guide app also offers coaches for hire, allowing users to consultations. You can access this feature through the Consult menu.
+Provides direct access to users to consult expert coaches through the platform for personal guidance and motivation.
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/da7b3f27-47b4-45fb-a020-c66e3b75849a" width="25%" height="25%">
@@ -70,9 +60,9 @@ Gym Guide app also offers coaches for hire, allowing users to consultations. You
 
 <p> </p>
 
-**Articles That Are Always Updated**
+**Articles and Tips & Tricks**
 
-Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on GymGuide. You can access these resources through the home menu.
+Provides informative articles about the benefits of exercise, exercise routines, and health information to provide motivation and knowledge to users.
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/16d0bbcf-5c69-40f3-baec-222a807d4474" width="25%" height="25%">
@@ -81,15 +71,57 @@ Discover the Updated Articles of Gym, Exercise Tips, and Nutrition Guides on Gym
 
 <p> </p>
 
-**Exercise List**
+**Daily Exercise List**
 
-<p align="justify"> GymGuide provides daily workouts that can be accessed and followed by users of all levels of physical condition. Each exercise is accompanied by clear instructions and a video guide to ensure users perform the movements correctly. You can access these workouts through the Discover menu. </p>
+<p align="justify"> Provides a list of exercises that can be done at home or at the gym </p>
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/49080442-64c7-4efa-9642-62a3f1c40a89" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
   <img src="https://github.com/GymGuide/.github/assets/90093341/6a551318-d580-42f7-a1af-fcc564494ac1" width="25%%" height="25%">
 </p>
+
+**Gym Place Booking**
+
+<p align="justify"> Facilitates users to book a place at their favorite gym </p>
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/49080442-64c7-4efa-9642-62a3f1c40a89" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/6a551318-d580-42f7-a1af-fcc564494ac1" width="25%%" height="25%">
+</p>
+
+**Monitoring Daily Caloric, Hydration, and Workout**
+
+<p align="justify"> With accurate monitoring, you can ensure that your every step is directed towards your goals. where you can record every food you eat, the amount of water you drink and your workout activities, all of which will be recorded in detail on the dashboard. </p>
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/49080442-64c7-4efa-9642-62a3f1c40a89" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/6a551318-d580-42f7-a1af-fcc564494ac1" width="25%%" height="25%">
+</p>
+
+**Food Scanning to Determine Nutrition Food**
+
+<p align="justify"> Taking advantage of this feature, users can easily find out the calories and nutrients you consume </p>
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/49080442-64c7-4efa-9642-62a3f1c40a89" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/6a551318-d580-42f7-a1af-fcc564494ac1" width="25%%" height="25%">
+</p>
+
+**Gamification**
+
+<p align="justify"> features make sports a fun game. Get points/badges every time you complete a mission, as well as special prizes after achieving certain targets. It's not just about exercise, it's also about celebrating every milestone you make on your fitness journey!" </p>
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/49080442-64c7-4efa-9642-62a3f1c40a89" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/6a551318-d580-42f7-a1af-fcc564494ac1" width="25%%" height="25%">
+</p>
+
+
 
 
 
