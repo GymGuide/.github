@@ -111,9 +111,9 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> Facilitates Users to Book a Place at Their Favorite Gym. </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/2ad8f4e9-633c-43a5-a404-32439333b637" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/a9720f28-400e-4b73-8222-3cedc79b38eb" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/b2e6a29e-bf8c-4ee2-b031-61b2f5f11caa" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/1bfb3b8d-962e-4f17-a1a6-987aaf41bf71" width="25%%" height="25%">
 </p>
 
 **Monitoring Daily Caloric, Hydration, Workout, And Sleep**
@@ -121,11 +121,11 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> With Accurate Monitoring, You Can Ensure That Your Every Step Is Directed Towards Your Goals. Where You Can Record Every Food You Eat, the Amount of Water You Drink, Your Workout Activities, And Amount of Sleep Time. All of Which Will Be Recorded in Detail on the Dashboard. </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/9af04ffd-83ec-483f-98c2-80f3230be750" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/1defb50b-566f-4b53-beef-6870fcc6c381" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/7db6ab2d-dd8d-40ae-aabe-1d335cb7b889" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/5a8760e1-9d5c-49d7-960f-a9c501779641" width="25%%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/f6407310-1a34-4958-aa69-4049142c069b" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/32fbe8d3-7030-48e3-b43f-eac7efb82823" width="25%" height="25%">
 </p>
 
 **Food Scanning to Determine Nutrition Food**
@@ -135,7 +135,7 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/01348b30-be22-4807-b995-7272339496e6" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/b195e56e-c157-401e-be44-599b764470dd" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/d91baaf1-b78f-4ede-9b08-90e1339783f0" width="25%%" height="25%">
 </p>
 
 **Gamification**
@@ -143,11 +143,11 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> Features Make Sports a Fun Game. Get Points/Badges Every Time You Complete a Mission, as Well as Special Prizes After Achieving Certain Targets. It's Not Just About Exercise, It's Also About Celebrating Every Milestone You Make on Your Fitness Journey! </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/e32ecf68-b4d8-4c01-a583-8fd6be374c93" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/1c4f1c50-7fcb-4066-8304-109da0d5d074" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/114852db-22d1-4b62-867a-39a9bafd13b8" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/15ca5da6-d464-4f32-a3b1-beb8d56f0909" width="25%%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/cd34c5a4-78ba-4e52-abd2-06e901b98bf7" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/7bdcb300-0c75-44a5-a779-431e14f010f4" width="25%" height="25%">
 </p>
 
 
