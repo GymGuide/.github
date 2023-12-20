@@ -91,7 +91,7 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> Provides a List of Exercises That Can Be Done at Home or at the Gym. </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/1f335b30-1c36-43bb-a798-c0c02effd7ab" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/0cb1c9b1-7c24-4fb8-8fe4-982d0733ac3e" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
   <img src="https://github.com/GymGuide/.github/assets/90093341/83e309a4-5b04-49aa-ac83-d83a3c5cdd22" width="25%%" height="25%">
 </p>
