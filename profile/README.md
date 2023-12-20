@@ -101,8 +101,9 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/33e9d4de-fba8-4de2-aa73-913203b736d3" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/556f0ede-0e0f-4359-a8de-2adb7ef8f718" width="25%%" height="25%">
 </p>
-
 
 **Gym Place Booking**
 
