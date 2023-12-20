@@ -32,9 +32,9 @@ Get the app from our [releases page.](https://gymguide.github.io/website/)
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/b7fbb590-9dba-4973-967c-1ffee425b57e" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/8b39667b-9d8f-4552-b94d-b9910250d33f" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/a50987dc-2a0e-45dd-a4df-93b0ef57a825" width="25%%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/46ebc4dc-7580-4a9a-907d-6adf0102c6df" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/37d4f1da-feb0-45e5-bc0d-3e9285311092" width="25%" height="25%">
 </p>
 
 **Scan Gym Equipment**
@@ -44,7 +44,7 @@ Allows Users to Scan Gym Equipment and Get Interactive Video Tutorials to Unders
 <p align="center">
   <img src="https://github.com/GymGuide/.github/assets/90093341/aa28ccbf-a505-41a6-80c2-8380a89342bb" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/4f9eb1ee-a0a1-48d5-8e5c-9313746f4c92" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/fadc28b4-52e1-473e-b305-7e403176214d" width="25%%" height="25%">
 </p>
 
 **Consultation with Trainers**
@@ -52,9 +52,9 @@ Allows Users to Scan Gym Equipment and Get Interactive Video Tutorials to Unders
 Provides Direct Access to Users to Consult Expert Coaches Through the Platform for Personal Guidance and Motivation.
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/891881cc-81ec-4041-83a2-b00ec57ed857" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/ac98739a-cbc3-41ea-8e61-4688c9445e6a" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/c4b5835f-ea32-4674-97d5-754c59cd0bb9" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/47ccf06c-14a9-40f0-8c2c-f55d1324408a" width="25%%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
   <img src="https://github.com/GymGuide/.github/assets/90093341/ca9ebf87-b05d-4a84-a126-403b4e4f828b" width="25%" height="25%">
 </p>
@@ -66,20 +66,21 @@ Provides Direct Access to Users to Consult Expert Coaches Through the Platform f
 Allows Users to Book Private Trainers and Schedule Face-to-Face Meetings Offline.
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/83fc2773-1431-4581-b4fd-30ec21bb0ac3" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/371ef63f-4621-4413-a0e6-a9d8473a0a34" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/73f70ee5-19e1-419d-ba80-c7e97f868322" width="25%%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/adb804fd-2b17-47d5-932d-66ed05ee1ad0" width="25%%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
-  <img src="https://github.com/GymGuide/.github/assets/90093341/e6172bf9-f112-44c3-9f1e-4c5e55920957" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/04edad00-693f-43d6-91cc-159d912ff26f" width="25%" height="25%">
 </p>
 
 **Articles and Tips & Tricks**
 
 Provides Informative Articles About the Benefits of Exercise, Exercise Routines, and Health Information to Provide Motivation and Knowledge to Users.
 
-
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/f67d4ffc-5dcf-402a-aeca-fd734e60f940" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/e3dca77e-73ae-4987-a387-8e297680bc4e" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/GymGuide/.github/assets/90093341/f61ff357-e93f-458d-b4cd-f95959528a00" width="25%%" height="25%">
 </p>
 
 
@@ -90,7 +91,7 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> Provides a List of Exercises That Can Be Done at Home or at the Gym. </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/762311c2-feaa-4271-9685-0eaeec088922" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/1f335b30-1c36-43bb-a798-c0c02effd7ab" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
   <img src="https://github.com/GymGuide/.github/assets/90093341/83e309a4-5b04-49aa-ac83-d83a3c5cdd22" width="25%%" height="25%">
 </p>
