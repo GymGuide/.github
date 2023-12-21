@@ -143,12 +143,13 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> Features Make Sports a Fun Game. Get Points/Badges Every Time You Complete a Mission, as Well as Special Prizes After Achieving Certain Targets. It's Not Just About Exercise, It's Also About Celebrating Every Milestone You Make on Your Fitness Journey! </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/1c4f1c50-7fcb-4066-8304-109da0d5d074" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/fea997bc-c25f-4be4-9edf-41b21dbf56ff" width="25%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
   <img src="https://github.com/GymGuide/.github/assets/90093341/15ca5da6-d464-4f32-a3b1-beb8d56f0909" width="25%%" height="25%">
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
   <img src="https://github.com/GymGuide/.github/assets/90093341/7bdcb300-0c75-44a5-a779-431e14f010f4" width="25%" height="25%">
 </p>
+
 
 
 
