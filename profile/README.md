@@ -150,7 +150,21 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
   <img src="https://github.com/GymGuide/.github/assets/90093341/7bdcb300-0c75-44a5-a779-431e14f010f4" width="25%" height="25%">
 </p>
 
+**Ask AI**
 
+<p align="justify"> This feature is a component within the fitness app that leverages Artificial Intelligence (AI) to facilitate conversations with users and serves as a virtual assistant dedicated to providing information, guidance, and support related to fitness. </p>
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/83e3ee8a-09a6-422a-a082-7755ed1ea65e" width="25%" height="25%">
+</p>
+
+**Track Exercise Movement**
+
+<p align="justify"> This feature aims to assist users in performing exercises correctly to prevent injuries and avoid unnecessary effort. A common issue for many people starting an exercise routine is the tendency to perform movements incorrectly, leading to suboptimal results. By providing guidance on proper form, this feature aims to ensure users achieve their desired fitness outcomes. </p>
+
+<p align="center">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/10b3b065-4946-4e9d-8957-1240bc51cfef" width="25%" height="25%">
+</p>
 
 
 
