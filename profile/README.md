@@ -163,7 +163,7 @@ Provides Informative Articles About the Benefits of Exercise, Exercise Routines,
 <p align="justify"> This feature aims to assist users in performing exercises correctly to prevent injuries and avoid unnecessary effort. A common issue for many people starting an exercise routine is the tendency to perform movements incorrectly, leading to suboptimal results. By providing guidance on proper form, this feature aims to ensure users achieve their desired fitness outcomes. </p>
 
 <p align="center">
-  <img src="https://github.com/GymGuide/.github/assets/90093341/10b3b065-4946-4e9d-8957-1240bc51cfef" width="25%" height="25%">
+  <img src="https://github.com/GymGuide/.github/assets/90093341/10b3b065-4946-4e9d-8957-1240bc51cfef" width="50%" height="50%">
 </p>
 
 
